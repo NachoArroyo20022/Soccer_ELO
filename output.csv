@@ -1,4 +1,4 @@
-Date_ddmmyy,H_Team,Away_Team,Full_Time_H_Goals,Full_Time_Away_Goals,Full_Time_Result,Half_Time_H_Goals,Half_Time_Away_Goals,Half_Time_Result,Referee,H_Shots,A_Shots,H_Shots_on_Target,A_Shots_on_Target,H_Fouls,A_Fouls,H_Corners,A_Corners,H_Yellow,A_Yellow,H_Red,A_Red
+Date_ddmmyy,H_Team,A_Team,Full_Time_H_Goals,Full_Time_A_Goals,Full_Time_Result,Half_Time_H_Goals,Half_Time_A_Goals,Half_Time_Result,Referee,H_Shots,A_Shots,H_Shots_on_Target,A_Shots_on_Target,H_Fouls,A_Fouls,H_Corners,A_Corners,H_Yellow,A_Yellow,H_Red,A_Red
 05/09/93,Ath Bilbao,Albacete,4,1,H,,,,,,,,,,,,,,,,
 05/09/93,Ath Madrid,Logrones,1,0,H,,,,,,,,,,,,,,,,
 05/09/93,Barcelona,Sociedad,3,0,H,,,,,,,,,,,,,,,,
